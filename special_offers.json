@@ -1,0 +1,11 @@
+[
+  {
+    "special_offer_type": "fraction_of_price",
+    "product_matrix": [[4], ["0.9"]]
+  },
+  {
+    "special_offer_type": "fraction_of_price_per_quantity",
+    "product_matrix": [[1, 2], [2, 1]],
+    "shared_values": ["0.5"]
+  }
+]
